@@ -43,12 +43,16 @@ The task is to predict whether a client will subscribe to a bank term deposit (`
 ---
 
 ## 📊 Example Submission
+
+```csv
 id,y
 750000,0.003873
 750001,0.122769
 750002,0.001313
 750003,0.000465
 750004,0.025100
+
+
 
 
 ---
